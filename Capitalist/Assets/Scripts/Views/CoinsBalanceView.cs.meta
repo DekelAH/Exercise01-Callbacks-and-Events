@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1d2496ece0e3463795a28bbd09de0dc0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _coinsBalanceText: {instanceID: 0}
+  - _playerModel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
